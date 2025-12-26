@@ -17,6 +17,11 @@ Batch script to clean temporary system files on Windows with a simple intro and 
 
 ## 📷 Screenshoots
 
+| Output | Temp(after) | Prefetch(after)
+|---------|---------|---------|
+|  <img src="assets/SS1.png" width="250"/> |<img src="assets/SS2.png" width="250"/> |<img src="assets/SS3.png" width="250"/> |
+
+
 
 ## 📖 Usage
 1. Download the file `cleanup_tool.bat`.
